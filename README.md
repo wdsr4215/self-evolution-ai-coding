@@ -204,6 +204,7 @@ python "$env:USERPROFILE\.codex\skills\self-evolution-ai-coding\scripts\scaffold
 
 项目私有问题写入 `AI_CODING_MISTAKE_NOTEBOOK.md`。多项目通用问题再进入全局 `self-evolution-ai-coding`。
 
+
 ## 目录结构
 
 ```text
@@ -215,7 +216,6 @@ self-evolution-ai-coding/
 │   ├── ai-coding-reliability-research.md
 │   ├── capability-migration-reliability.md
 │   ├── commercial-engineering.md
-│   ├── digital-employee-runtime.md
 │   ├── governance-file-set.md
 │   ├── prompt-skill-boundary.md
 │   ├── self-evolution.md
